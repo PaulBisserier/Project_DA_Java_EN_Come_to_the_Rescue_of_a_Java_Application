@@ -23,9 +23,9 @@ public class SymptomWritter implements ISymptomWriter {
 				}
 			});	
 		      myWriter.close();
-		      System.out.println("Successfully wrote to the file.");
+		      System.out.println("ECRITURE DANS LE FICHIER OK.");
 		    } catch (IOException e) {
-		      System.out.println("An error occurred.");
+		      System.out.println("ERREUR D'ECRITURE DANS LE FICHIER");
 		      e.printStackTrace();
 		    }
 		
