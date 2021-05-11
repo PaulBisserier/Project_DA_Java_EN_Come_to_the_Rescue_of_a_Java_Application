@@ -2,6 +2,7 @@ package com.hemebiotech.analytics;
 
 import java.util.List;
 
+
 public class CounterSymptoms extends AbstractCounter implements ICountSymptoms {
 		
 	@Override
@@ -15,4 +16,5 @@ public class CounterSymptoms extends AbstractCounter implements ICountSymptoms {
 	  }	
 	 }
 	}
+	
 }

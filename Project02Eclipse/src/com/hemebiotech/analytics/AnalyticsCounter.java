@@ -2,6 +2,7 @@ package com.hemebiotech.analytics;
 
 
 import java.util.List;
+import java.util.Map;
 
 /**
  * 
@@ -22,8 +23,14 @@ public class AnalyticsCounter {
 		
 		CounterSymptoms counterSymptoms = new CounterSymptoms();
 		counterSymptoms.count(symptoms);
+		Map<String, Integer> testMap = counterSymptoms.getMyMap(); 
 		//writer.writeConsole(counterSymptoms.getMyMap());
-		writer.writeFile(counterSymptoms.getMyMap());
+		//writer.writeFile(counterSymptoms.getMyMap());
+		SortSymptoms sortSymptoms = new SortSymptoms(); 
+		sortSymptoms.sortMap(testMap);
+		
+		System.out.println(sortSymptoms.getMapSorted()); 
+		writer.writeFile(sortSymptoms.getMapSorted());
 		
 	}
 }
