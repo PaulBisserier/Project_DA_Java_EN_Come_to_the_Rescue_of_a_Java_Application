@@ -14,9 +14,10 @@ public class SymptomWritter implements ISymptomWriter {
 	public void writeFile(Map<String, Integer> map) {
 		try {
 		      FileWriter myWriter = new FileWriter("result.out");
+		    
 		      map.forEach((key, value)-> {
 				try {
-					myWriter.write("Le symptome : " + key + " " + " a une fréquence de : " + value + "\n");
+					myWriter.write( key + " = " +value + "\n");
 				} catch (IOException e) {
 					// TODO Auto-generated catch block
 					e.printStackTrace();

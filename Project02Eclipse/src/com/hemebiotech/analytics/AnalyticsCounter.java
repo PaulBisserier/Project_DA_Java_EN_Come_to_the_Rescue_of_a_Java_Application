@@ -29,7 +29,6 @@ public class AnalyticsCounter {
 		SortSymptoms sortSymptoms = new SortSymptoms(); 
 		sortSymptoms.sortMap(testMap);
 		
-		System.out.println(sortSymptoms.getMapSorted()); 
 		writer.writeFile(sortSymptoms.getMapSorted());
 		
 	}

@@ -1,25 +1,25 @@
-Le symptome : water retention  a une fréquence de : 1
-Le symptome : blindness  a une fréquence de : 1
-Le symptome : rapid heart rate  a une fréquence de : 1
-Le symptome : COvid  a une fréquence de : 1
-Le symptome : kangourou  a une fréquence de : 1
-Le symptome : constricted pupils  a une fréquence de : 3
-Le symptome : shortness of breath  a une fréquence de : 3
-Le symptome : stomach pain  a une fréquence de : 3
-Le symptome : arrhythmias  a une fréquence de : 3
-Le symptome : headache  a une fréquence de : 3
-Le symptome : stiff neck  a une fréquence de : 4
-Le symptome : low blood pressure  a une fréquence de : 4
-Le symptome : dialated pupils  a une fréquence de : 4
-Le symptome : tremor  a une fréquence de : 4
-Le symptome : insomnia  a une fréquence de : 4
-Le symptome : rash  a une fréquence de : 4
-Le symptome : dizziness  a une fréquence de : 5
-Le symptome : nausea  a une fréquence de : 5
-Le symptome : anxiety  a une fréquence de : 5
-Le symptome : blurred vision  a une fréquence de : 5
-Le symptome : cough  a une fréquence de : 6
-Le symptome : fever  a une fréquence de : 7
-Le symptome : inflamation  a une fréquence de : 7
-Le symptome : dry mouth  a une fréquence de : 8
-Le symptome : high blood pressure  a une fréquence de : 10
+water retention = 1
+blindness = 1
+rapid heart rate = 1
+COvid = 1
+kangourou = 1
+constricted pupils = 3
+shortness of breath = 3
+stomach pain = 3
+arrhythmias = 3
+headache = 3
+stiff neck = 4
+low blood pressure = 4
+dialated pupils = 4
+tremor = 4
+insomnia = 4
+rash = 4
+dizziness = 5
+nausea = 5
+anxiety = 5
+blurred vision = 5
+cough = 6
+fever = 7
+inflamation = 7
+dry mouth = 8
+high blood pressure = 10
