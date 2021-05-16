@@ -2,6 +2,13 @@ package com.hemebiotech.analytics;
 
 import java.io.File;  // Import the File class
 import java.io.IOException;  // Import the IOException class to handle errors
+
+/**
+ * 
+ * @author paul
+ * créer un fichier txt
+ */
+
 public class CreateFile {
 
 	 public static void main(String[] args) {

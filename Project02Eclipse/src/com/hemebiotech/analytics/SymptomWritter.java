@@ -4,6 +4,11 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Map;
 
+/**
+ * 
+ * @author paul
+ * écrit les résultats dans la console ou un fichier
+ */
 public class SymptomWritter implements ISymptomWriter {
 
 	@Override
@@ -24,7 +29,7 @@ public class SymptomWritter implements ISymptomWriter {
 				}
 			});	
 		      myWriter.close();
-		      System.out.println("ECRITURE DANS LE FICHIER OK.");
+		      System.out.println("ECRITURE DANS LE FICHIER TERMINÉE.");
 		    } catch (IOException e) {
 		      System.out.println("ERREUR D'ECRITURE DANS LE FICHIER");
 		      e.printStackTrace();

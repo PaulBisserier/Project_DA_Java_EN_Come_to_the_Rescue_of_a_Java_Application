@@ -2,6 +2,11 @@ package com.hemebiotech.analytics;
 
 import java.util.List;
 
+/**
+ * 
+ * @author paul
+ * retourne une map avec des clés : symptomes, et des valeurs : fréquence
+ */
 
 public class CounterSymptoms extends AbstractCounter implements ICountSymptoms {
 		

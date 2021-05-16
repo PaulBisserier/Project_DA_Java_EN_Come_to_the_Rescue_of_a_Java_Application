@@ -54,6 +54,8 @@ high blood pressure
 high blood pressure
 blurred vision
 nausea
+abmaladie
+zzmaladie
 shortness of breath
 fever
 insomnia
@@ -86,6 +88,8 @@ arrhythmias
 rash
 rash
 fever
+abmaladie
+zzmaladie
 dry mouth
 fever
 high blood pressure
@@ -96,7 +100,9 @@ inflamation
 low blood pressure
 anxiety
 anxiety
+abmaladie
+zzmaladie
 cough
 blurred vision
-COvid
+covid
 kangourou
