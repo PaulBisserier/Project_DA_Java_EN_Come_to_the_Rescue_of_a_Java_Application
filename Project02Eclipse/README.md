@@ -7,7 +7,7 @@
 
 ##### creation / lecture / écriture fichier .txt;
 ##### décompte des occurences;
-##### tri des des symptomes par ordre alphabétique.
+##### tri des symptomes par ordre alphabétique.
 
 
 
